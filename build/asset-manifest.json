@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.125d86dc.css",
+    "main.js": "/static/js/main.fe7c099d.js",
+    "static/media/Emojify.gif": "/static/media/Emojify.f74490df4fd18e688445.gif",
+    "static/media/Emanuel-blossom.jpeg": "/static/media/Emanuel-blossom.e034ab27ce98f3876ff2.jpeg",
+    "static/media/Emanuel-Molina resume 2021 OLD.pdf": "/static/media/Emanuel-Molina resume 2021 OLD.8fe1ea289a158598be21.pdf",
+    "index.html": "/index.html",
+    "main.125d86dc.css.map": "/static/css/main.125d86dc.css.map",
+    "main.fe7c099d.js.map": "/static/js/main.fe7c099d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.125d86dc.css",
+    "static/js/main.fe7c099d.js"
+  ]
+}
